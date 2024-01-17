@@ -594,6 +594,7 @@ footer {
 
     .newspaper-section {
         flex-direction: column;
+        margin-top: 16px;
     }
 
     .news-heading p {
@@ -640,5 +641,9 @@ footer {
         position: relative;
         bottom: -107px;
         left: 149px;
+    }
+
+    footer{
+        margin-top: -80px;
     }
 }
