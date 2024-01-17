@@ -169,10 +169,6 @@
     max-width: 1170px;
 }
 
-
-
-.travel-img-box {}
-
 .img-1 {
     grid-area: img-1;
 }
@@ -316,7 +312,6 @@
     font-family: 'Mulish';
     font-size: 16px;
     font-weight: 400;
-    /* padding-left: 20px; */
     border: 0;
 }
 
